@@ -20,10 +20,10 @@ I am _still_ open to issues being submitted, etc!
 
 ## Installation
 
-### [npmcdn](https://npmcdn.com)
+### [unpkg](https://unpkg.com)
 
 ```html
-<script src="https://npmcdn.com/react-stackoverflow-profile/dist/react-stackoverflow-profile.min.js"></script>
+<script src="https://unpkg.com/react-stackoverflow-profile/dist/react-stackoverflow-profile.min.js"></script>
 ```
 
 ### npm
